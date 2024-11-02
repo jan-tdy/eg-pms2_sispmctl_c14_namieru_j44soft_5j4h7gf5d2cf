@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=EG-PMS2 Control
+Exec=/usr/bin/eg_pms2.py
+Icon=eg_pms2
+Type=Application
+Categories=Utility;
+Terminal=false
+Name[en_US]=eg_pms2.desktop
